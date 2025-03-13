@@ -1,0 +1,4 @@
+imap
+PyMuPDF
+openai==0.28.0
+mysql-connector-python
